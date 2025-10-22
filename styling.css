@@ -2,6 +2,128 @@ header{
     background-color: rgb(94, 165, 237);
     text-align : center;
     color:rgb(59, 213, 141);
-    font-family:sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: x-large;
     }
+
+.x img {
+    display: block;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+.parent{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    border-radius: 10px;
+    border-style: ridge;
+    width: 800px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.a1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a1:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+
+.a2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a2:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+.a3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a3:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+.a4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a4:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+.a5{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a5:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+.a6{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a6:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
+
+.a7{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;           
+  margin: 10px 0;
+  font-size: 18px;
+  transition: 0.3s ease;
+}
+.a7:hover{
+    background-color: rgb(255, 251, 0);
+    transform: scale(1.05);
+}
